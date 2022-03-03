@@ -3,3 +3,4 @@ Manual do usuario
 2. Siglas aceitas em: https://brapi.ga/docs/list
 3. O programa le um arquivo do tipo CSV com o email de quem recebera o alerta e o host smtp, exemplo: "seuEmail@gmail.com;smtp.gmail.com";
 4. Para alterar essas configurações, bastar alterar o arquivo "Email.csv" em "\stock-quote-alert\bin\Debug\net6.0";
+5. O usuario recebera um email de "testeapiinoa@gmail.com" se o alerta for selecionado.
